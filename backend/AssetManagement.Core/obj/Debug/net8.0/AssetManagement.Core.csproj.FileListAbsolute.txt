@@ -9,3 +9,4 @@
 /Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/refint/AssetManagement.Core.dll
 /Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.pdb
 /Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/ref/AssetManagement.Core.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.sourcelink.json

@@ -154,3 +154,4 @@
 /Users/ap/ItAssetManagement/backend/AssetManagement.API/obj/Debug/net8.0/AssetManagement.API.pdb
 /Users/ap/ItAssetManagement/backend/AssetManagement.API/obj/Debug/net8.0/AssetManagement.API.genruntimeconfig.cache
 /Users/ap/ItAssetManagement/backend/AssetManagement.API/obj/Debug/net8.0/ref/AssetManagement.API.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.API/obj/Debug/net8.0/AssetManagement.API.sourcelink.json

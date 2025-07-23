@@ -10,5 +10,13 @@ export default defineNuxtConfig({
     public: {
       apiBase: 'http://localhost:5000/api'
     }
+  },
+  imports: {
+    autoImport: true
+  
+  }, 
+  typescript: {
+    shim: false
+  
   }
 })
