@@ -1,0 +1,17 @@
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.AssemblyInfo.cs
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Infrastructure.deps.json
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Infrastructure.runtimeconfig.json
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Infrastructure.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Infrastructure.pdb
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Core.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/bin/Debug/net8.0/AssetManagement.Core.pdb
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetMan.47A39F1C.Up2Date
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/refint/AssetManagement.Infrastructure.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.pdb
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/AssetManagement.Infrastructure.genruntimeconfig.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Infrastructure/obj/Debug/net8.0/ref/AssetManagement.Infrastructure.dll

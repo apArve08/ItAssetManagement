@@ -1,0 +1,11 @@
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/bin/Debug/net8.0/AssetManagement.Core.deps.json
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/bin/Debug/net8.0/AssetManagement.Core.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/bin/Debug/net8.0/AssetManagement.Core.pdb
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.AssemblyInfoInputs.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.AssemblyInfo.cs
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.csproj.CoreCompileInputs.cache
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/refint/AssetManagement.Core.dll
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/AssetManagement.Core.pdb
+/Users/ap/ItAssetManagement/backend/AssetManagement.Core/obj/Debug/net8.0/ref/AssetManagement.Core.dll
