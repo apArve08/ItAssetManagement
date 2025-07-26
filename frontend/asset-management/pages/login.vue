@@ -74,6 +74,10 @@
   </template>
   
   <script setup lang="ts">
+import { ref } from 'vue'
+import { useRouter } from 'vue-router'
+import { useAuthStore } from '../stores/auth'
+
   definePageMeta({
     layout: 'auth',
     middleware: 'guest'
@@ -104,4 +108,9 @@
     
     loading.value = false
   }
-  </script>
+  
+
+function definePageMeta(arg0: { layout: string; middleware: string }) {
+  throw new Error('Function not implemented.')
+}
+</script>

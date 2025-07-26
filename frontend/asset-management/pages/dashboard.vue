@@ -66,6 +66,9 @@
   
   <script setup lang="ts">
   import { Chart, registerables } from 'chart.js'
+import { onMounted, onUnmounted, ref } from 'vue'
+  import { useAssetsStore } from '/Users/ap/ItAssetManagement/frontend/asset-management/stores/assets'
+  
   
   Chart.register(...registerables)
   
@@ -145,4 +148,9 @@
     statusChartInstance?.destroy()
     categoryChartInstance?.destroy()
   })
-  </script>
+  
+
+function definePageMeta(arg0: { middleware: string }) {
+  throw new Error('Function not implemented.')
+}
+</script>

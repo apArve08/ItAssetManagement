@@ -6,4 +6,9 @@
   definePageMeta({
     middleware: 'auth'
   })
-  </script>
+  
+
+function definePageMeta(arg0: { middleware: string; }) {
+  throw new Error('Function not implemented.');
+}
+</script>

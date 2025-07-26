@@ -119,15 +119,18 @@
   
   <script setup lang="ts">
   import { debounce } from 'lodash-es'
-  import { useAuthStore } from '~/stores/auth'
-  import { useAssetsStore } from '~/stores/assets'
+ 
+import { computed, onMounted, ref } from 'vue'
   
   definePageMeta({
     middleware: 'auth'
   })
+  import { useAuthStore } from '/Users/ap/ItAssetManagement/frontend/asset-management/stores/auth'
+  import { useAssetsStore } from '/Users/ap/ItAssetManagement/frontend/asset-management/stores/assets'
+ 
   
   const authStore = useAuthStore()
-  const assetsStore = useAssetsStore()
+  const assetsStore = useAssetsStore() 
   const assets = computed(() => assetsStore.assets)
   const searchTerm = ref('')
   
@@ -156,4 +159,9 @@
       }
     }
   }
-  </script>
+  
+
+function definePageMeta(arg0: { middleware: string }) {
+  throw new Error('Function not implemented.')
+}
+</script>

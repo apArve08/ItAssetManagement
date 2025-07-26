@@ -1,0 +1,5 @@
+// tsconfig.json (or jsconfig.json for JS projects)
+{
+    "extends": "./.nuxt/tsconfig.json"
+    
+  }
